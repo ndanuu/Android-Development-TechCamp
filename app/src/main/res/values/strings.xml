@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Linked App</string>
+    <string-array name="Majina">
+        <item>KING</item>
+        <item>KING</item>
+        <item>KING</item>
+        <item>KING</item>
+        <item>KING</item>
+        <item>KING</item>
+        <item>KING</item>
+        <item>KING</item>
+        <item>KING</item>
+        <item>KING</item>
+        <item>KING</item>
+        <item>KING</item>
+        <item>KING</item>
+        <item>KING</item>
+        <item>KING</item>
+    </string-array>
+
+</resources>
